@@ -173,6 +173,22 @@
           "name": "Raregems",
           "link": "https://raregems.io/moonriver/blvck-market-cyan"
         }
+        {
+      "name": "SeaScape",
+      "address": "0x9ceAB9b5530762DE5409F2715e85663405129e54",
+      "symbol": "SeaScape",
+      "chainId":1287,
+      "active": true,
+      "logoURI": "https://moonbeans.io/images/NFTCovers/blvcksnakescyan.gif",
+      "marketplaces": [
+        {
+          "name": "Moonbeans",
+          "link": "https://graphql.moonbeans.io/graphql"
+        },
+        {
+          "name": "Raregems",
+          "link": "https://raregems.io/moonriver/blvck-market-cyan"
+        }
       ]
     }
   ]
