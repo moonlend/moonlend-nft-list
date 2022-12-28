@@ -1,0 +1,179 @@
+{"name": "NFT Default",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "",
+  "keywords": [
+    "nft",
+    "default"
+  ],
+  "tokens": [
+    {
+      "name": "Moonsama",
+      "address": "0xb654611f84a8dc429ba3cb4fda9fad236c505a1a",
+      "symbol": "MSAMA",
+      "chainId":1285,
+      "active": true,
+      "logoURI": "https://moonbeans.io/images/NFTCovers/moonsama.jpeg",
+      "marketplaces": [
+        {
+          "name": "Moonsama Marketplace",
+          "link": "https://moonriver-subgraph.moonsama.com/subgraphs/name/moonsama/marketplacev8"
+        }
+      ]
+    },
+    {
+      "name": "Pondsama",
+      "address": "0xe4edcaaea73684b310fc206405ee80abcec73ee0",
+      "symbol": "PONDSAMA",
+      "chainId":1285,
+      "active": true,
+      "logoURI": "https://moonbeans.io/images/NFTCovers/pondsama.jpeg",
+      "marketplaces": [
+        {
+          "name": "Moonsama Marketplace",
+          "link": "https://moonriver-subgraph.moonsama.com/subgraphs/name/moonsama/marketplacev8"
+        }
+      ]
+    },
+    {
+      "name": "Damned Pirates Society",
+      "address": "0xb6e9e605aa159017173caa6181c522db455f6661",
+      "symbol": "DPS",
+      "chainId":1285,
+      "active": true,
+      "logoURI": "https://pbs.twimg.com/media/FCoVoxIXoAc4SzD?format=jpg&name=large",
+      "marketplaces": [
+        {
+          "name": "Moonbeans",
+          "link": "https://graphql.moonbeans.io/graphql"
+        },
+        {
+          "name": "Raregems",
+          "link": "https://raregems.io/moonriver/damned-pirates-society"
+        },
+        {
+          "name": "Tofu NFT",
+          "link": "https://tofunft.com/collection/thedamnedpiratessociety/items"
+        }
+      ]
+    },
+    {
+      "name": "Beans NFT",
+      "address": "0xd3a9c48df4d9342dc1a0ee2c185ce50588729fa9",
+      "symbol": "BEANIES",
+      "chainId":1285,
+      "active": true,
+      "logoURI": "https://moonbeans.io/images/NFTCovers/beanies.png",
+      "marketplaces": [
+        {
+          "name": "Moonbeans",
+          "link": "https://graphql.moonbeans.io/graphql"
+        },
+        {
+          "name": "Raregems",
+          "link": "https://raregems.io/moonriver/beans"
+        }
+      ]
+    },
+    {
+      "name": "DPS Flagship",
+      "address": "0x3822063a3f1aad3fd0b894e2a8f238ccca7c2d00",
+      "symbol": "DPS FLAGSHIP",
+      "chainId":1285,
+      "active": true,
+      "logoURI": "https://moonbeans.io/images/NFTCovers/flagships.jpeg",
+      "marketplaces": [
+        {
+          "name": "Moonbeans",
+          "link": "https://graphql.moonbeans.io/graphql"
+        }
+      ]
+    },
+    {
+      "name": "Neon Crisis V2",
+      "address": "0x2d4a19b306a496be628469de820f0367a13178e5",
+      "symbol": "NCR",
+      "chainId":1285,
+      "active": true,
+      "logoURI": "https://moonbeans.io/images/NFTCovers/neoncrisisOn.png",
+      "marketplaces": [
+        {
+          "name": "Moonbeans",
+          "link": "https://graphql.moonbeans.io/graphql"
+        },
+        {
+          "name": "Raregems",
+          "link": "https://raregems.io/moonriver/neon-crisis-v2"
+        }
+      ]
+    },
+    {
+      "name": "Moon Ninjas",
+      "address": "0x2fc54c540767d74e8b34c6c50fa448f6f25922b2",
+      "symbol": "MNNJA",
+      "chainId":1285,
+      "active": true,
+      "logoURI": "https://moonbeans.io/images/NFTCovers/moonNinjasOn.jpeg",
+      "marketplaces": [
+        {
+          "name": "Moonbeans",
+          "link": "https://graphql.moonbeans.io/graphql"
+        }
+      ]
+    },
+    {
+      "name": "Moonriver Quest",
+      "address": "0x79c8c73f85ec794f570aa7b768568a7fedb294f8",
+      "symbol": "NFTQ",
+      "chainId":1285,
+      "active": true,
+      "logoURI": "https://moonbeans.io/images/NFTCovers/moonriverquest.png",
+      "marketplaces": [
+        {
+          "name": "Moonbeans",
+          "link": "https://graphql.moonbeans.io/graphql"
+        },
+        {
+          "name": "Tofu NFT",
+          "link": "https://tofunft.com/collection/moonriver-quest/items"
+        }
+      ]
+    },
+    {
+      "name": "BlvckMarketNFT - BlvckSnakes",
+      "address": "0xfed9e29b276c333b2f11cb1427142701d0d9f7bf",
+      "symbol": "BMANFT",
+      "chainId":1285,
+      "active": true,
+      "logoURI": "https://moonbeans.io/images/NFTCovers/blvckmarket.jpeg",
+      "marketplaces": [
+        {
+          "name": "Moonbeans",
+          "link": "https://graphql.moonbeans.io/graphql"
+        }
+      ]
+    },
+    {
+      "name": "BlvckMarket - BlvckSnakes Cyan Unique",
+      "address": "0xd6bc34cfc5f4c5079b0022e4060dba3a6a6b256d",
+      "symbol": "BMACYAN1OF1",
+      "chainId":1285,
+      "active": true,
+      "logoURI": "https://moonbeans.io/images/NFTCovers/blvcksnakescyan.gif",
+      "marketplaces": [
+        {
+          "name": "Moonbeans",
+          "link": "https://graphql.moonbeans.io/graphql"
+        },
+        {
+          "name": "Raregems",
+          "link": "https://raregems.io/moonriver/blvck-market-cyan"
+        }
+      ]
+    }
+  ]
+}
