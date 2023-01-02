@@ -176,6 +176,20 @@
       ]
     },
     {
+      "name": "Bay Island Lost Maps",
+      "address": "0xaD18EEA5413f3340aC2d9e2f081114e042398C90",
+      "symbol": "BAYMAP",
+      "chainId":1285,
+      "active": true,
+      "logoURI": "https://moonbeans.io/images/NFTCovers/baymaps.png",
+      "marketplaces": [
+        {
+          "name": "Moonbeans",
+          "link": "https://graphql.moonbeans.io/graphql"
+        },
+      ]
+    },
+    {
       "name": "SeaScape",
       "address": "0x9ceAB9b5530762DE5409F2715e85663405129e54",
       "symbol": "SeaScape",
