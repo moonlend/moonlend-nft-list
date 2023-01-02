@@ -13,7 +13,7 @@
   "tokens": [
     {
       "name": "Moonsama",
-      "address": "0xb654611f84a8dc429ba3cb4fda9fad236c505a1a",
+      "address": "0xb654611F84A8dc429BA3cb4FDA9Fad236C505a1a",
       "symbol": "MSAMA",
       "chainId":1285,
       "active": true,
@@ -27,7 +27,7 @@
     },
     {
       "name": "Pondsama",
-      "address": "0xe4edcaaea73684b310fc206405ee80abcec73ee0",
+      "address": "0xe4EDCAaEA73684b310fc206405ee80abCEc73EE0",
       "symbol": "PONDSAMA",
       "chainId":1285,
       "active": true,
