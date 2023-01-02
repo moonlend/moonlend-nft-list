@@ -41,7 +41,7 @@
     },
     {
       "name": "Damned Pirates Society",
-      "address": "0xb6e9e605aa159017173caa6181c522db455f6661",
+      "address": "0xB6E9e605AA159017173CAa6181C522Db455F6661",
       "symbol": "DPS",
       "chainId":1285,
       "active": true,
@@ -63,7 +63,7 @@
     },
     {
       "name": "Beans NFT",
-      "address": "0xd3a9c48df4d9342dc1a0ee2c185ce50588729fa9",
+      "address": "0xd3A9c48Df4d9342dc1A0EE2c185CE50588729Fa9",
       "symbol": "BEANIES",
       "chainId":1285,
       "active": true,
@@ -81,7 +81,7 @@
     },
     {
       "name": "DPS Flagship",
-      "address": "0x3822063a3f1aad3fd0b894e2a8f238ccca7c2d00",
+      "address": "0x3822063a3f1Aad3Fd0B894E2a8f238CCcA7C2D00",
       "symbol": "DPS FLAGSHIP",
       "chainId":1285,
       "active": true,
@@ -95,7 +95,7 @@
     },
     {
       "name": "Neon Crisis V2",
-      "address": "0x2d4a19b306a496be628469de820f0367a13178e5",
+      "address": "0x2d4A19B306A496be628469de820F0367A13178e5",
       "symbol": "NCR",
       "chainId":1285,
       "active": true,
@@ -113,7 +113,7 @@
     },
     {
       "name": "Moon Ninjas",
-      "address": "0x2fc54c540767d74e8b34c6c50fa448f6f25922b2",
+      "address": "0x2Fc54c540767d74e8B34c6C50fA448F6f25922B2",
       "symbol": "MNNJA",
       "chainId":1285,
       "active": true,
@@ -127,7 +127,7 @@
     },
     {
       "name": "Moonriver Quest",
-      "address": "0x79c8c73f85ec794f570aa7b768568a7fedb294f8",
+      "address": "0x79c8C73F85ec794f570aa7B768568a7fEdB294f8",
       "symbol": "NFTQ",
       "chainId":1285,
       "active": true,
@@ -145,7 +145,7 @@
     },
     {
       "name": "BlvckMarketNFT - BlvckSnakes",
-      "address": "0xfed9e29b276c333b2f11cb1427142701d0d9f7bf",
+      "address": "0xfEd9e29b276C333b2F11cb1427142701d0D9f7bf",
       "symbol": "BMANFT",
       "chainId":1285,
       "active": true,
@@ -159,7 +159,7 @@
     },
     {
       "name": "BlvckMarket - BlvckSnakes Cyan Unique",
-      "address": "0xd6bc34cfc5f4c5079b0022e4060dba3a6a6b256d",
+      "address": "0xD6bc34cFc5F4c5079B0022e4060Dba3a6a6B256D",
       "symbol": "BMACYAN1OF1",
       "chainId":1285,
       "active": true,
